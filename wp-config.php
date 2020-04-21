@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'test' );
+define( 'DB_NAME', 'laptop' );
 
 /** MySQL database username */
-define( 'DB_USER', 'wordpress' );
+define( 'DB_USER', 'laptop' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'hesheng1910' );
+define( 'DB_PASSWORD', '123456789' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'Ohk7G8 ,@w?H5>J);pBm(DoT)}-FTeXH2%XC*BnC;{W_Kwz6}+4_5-kNCmJ|;F9A' );
-define( 'SECURE_AUTH_KEY',  'OF&(BnAU{T[WF]W9AkSTNE_B`7c/9^3pTcxb(5`<5N0m#&/.GG8i+<ae${dj(cyg' );
-define( 'LOGGED_IN_KEY',    '-)VK|;Zi>xKtKU T2MzQ:>gg_upLiijQe58~a/&6J^7:`C_q@*NS7fWi7*Sr`|S3' );
-define( 'NONCE_KEY',        'wLHLMpH?c|9R|b[P] <^IR`pDjsI7c@U{$>y7$)Y62!(VPnV?!:ht1ByHw8)W:Lm' );
-define( 'AUTH_SALT',        '0qa{EvQRk=hZNqbyIV^oHqpW};(a/{^!;Hs;g2VXPK#iCIs>5(P17ch*#L;&GJcv' );
-define( 'SECURE_AUTH_SALT', 'Gr A=WPDl|Ls%G6$+ms(8B<~8/hXfuAxa*]xttnN!c#rX@/59m}y7EO.,r4NIDOl' );
-define( 'LOGGED_IN_SALT',   '2&` !$+GCT$C_X(YDKko4}5{L[E-0v^ykkDb,yW{Q_k|2imhK]]8hlORtNBwF/)!' );
-define( 'NONCE_SALT',       '1`^[p+SJG$Cv+MH#jnD{R}gONOSejLAdK!ink,,`woV0@yV,Ciam~3>S]!Q]YOo%' );
+define( 'AUTH_KEY',         ',qj.:7tH6T>[c3_<]($B>:&f}h6q3OX1#J2[+^7I)C#{[eXcxBWjPu<IKV@~2NTX' );
+define( 'SECURE_AUTH_KEY',  '%|rT%BfLur#-debX]]9d9@ExzXQt%Fm,Q#cC7dJty$i!}Fyl:ZzzBnRwI/A}w^(K' );
+define( 'LOGGED_IN_KEY',    'nN~1n:`i[KuxJ{ Y)cbrj`uaeQJ}~GLy<6N/lW8;!~,k?*69N0Nxx^{Q_AtdQf2C' );
+define( 'NONCE_KEY',        '^$nq+_A|>Mt%f#gp;ylJ3eZrhtV3NR|Ex].z61LkjR5ry}VCDGL>.UjArvc*&nWn' );
+define( 'AUTH_SALT',        'b*jy*t:LIDnfL^s2g-Pr/9={*zm0*Z)7X6|T+5ABz[aDDE:A j*A%,*7lH0.i+$1' );
+define( 'SECURE_AUTH_SALT', '0=m)/vs*Z~:$mx;L?B`;9FI(FJ i$lc!jzB*/O8YE5-8v6!7Nm97G/ !0YbNuH8/' );
+define( 'LOGGED_IN_SALT',   '}GT<{AW:F=Et,B.{1_/|y;+Sp>Z2q;tw>w8FI9|tu%XzR&c4hObTW ;(Tw6DnvP$' );
+define( 'NONCE_SALT',       'N}MH> Mp y#UL8skkZaa& dmu&X6V6h~JM%qG$kfYFka#L2tp%jQnwbwemO9o!^S' );
 
 /**#@-*/
 
